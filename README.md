@@ -6,7 +6,7 @@
 * [Aspect_detection_BERT](https://colab.research.google.com/drive/1e37Ek7kQjaOvyuutef2AHx57XrfTI7BJ?usp=sharing) -- обучение ruBERT для выделения аспектов в текстах
 * [Sentiment_BERT](https://colab.research.google.com/drive/1uqYLiWqBpdiDZKCBMFMiLFA88lJitTa8?usp=sharing) -- обучение ruBERT для оценки тональности аспектов
 * [nlp_absa_final_project](https://colab.research.google.com/drive/1M0pCp53FIpSgErWgX7oI3HZf_nsgdtLI?usp=sharing) -- применение нашего пайплайна и эксперименты (также есть в репозитории)
-* [todo]() -- оценка пайплайна (основного и эксперимента), сравнение с бейслайном
+* [evaluation_and_comparison](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1gXpW8nHHzlY98umLBRwyIeqpBwtCLNW1%3Fusp%3Dsharing) -- оценка пайплайна (основного и эксперимента), сравнение с бейслайном
 
 #### Навигация по файлам:
 * *sentiment_by_aspect* и *sentiment_by_category* -- результаты работы нашего пайплайна
